@@ -140,6 +140,7 @@
     ],
     "author": [
       "Betaflight",
+      "JoshN",
       "UAV Tech (Mark Spatz)"
     ],
     "keywords": [
@@ -152,6 +153,21 @@
     ]
   },
   "presets": [
+    {
+      "fullPath": "presets/4.3/osd/Josh_OSD.txt",
+      "hash": "1d8903de4c471bb1583308f661da8752805e1f43e709a345e443069379f500b2",
+      "title": "Josh's OSD Defaults",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "DJI"
+      ],
+      "author": "JoshN",
+      "priority": 0
+    },
     {
       "fullPath": "presets/4.3/osd/UAV_tech_Analog.txt",
       "hash": "b304bd4f3d0e6ab42840badced7e07847ca654c5fd048dba8c53b96128788763",

@@ -1,0 +1,28 @@
+#$ TITLE: Josh's OSD Defaults
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OSD
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: DJI
+#$ AUTHOR: JoshN
+
+#$ PARSER: MARKED
+
+#$ DESCRIPTION:
+#$ DESCRIPTION: Information:
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION: Base OSD Display; assumes fpv.wtf root.
+#$ DESCRIPTION:
+#$ INCLUDE: presets/4.3/osd/defaults.txt
+
+set osd_units = IMPERIAL
+set osd_warn_batt_not_full = OFF
+set osd_link_quality_pos = 2176
+set osd_tim_2_pos = 2456
+set osd_flymode_pos = 2074
+set osd_throttle_pos = 2282
+set osd_craft_name_pos = 2060
+set osd_warnings_pos = 14569
+set osd_avg_cell_voltage_pos = 2144
+set osd_displayport_device = MSP
+set vcd_video_system = PAL
+set displayport_msp_serial = 0
